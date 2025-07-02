@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @gefulai.
-- 👀 I’m interested in climbing, movies and DOTA2.
-- 🌱 I’m currently learning Apache Flink.
-- 💞️ I’m looking for a new job recently.
-- 📫 If you are looking for someone with experience in Java, Knowledge Graph and Flink, please send me an email: fulaing@outlook.com.
+- 👀 I’m looking for a new Job based in ShangHai.
+- 🌱 I have extensive Java development experience, am proficient in microservices architecture design, and possess strong engineering capabilities.
+- 💞️ I’m currently focusing on LLMs and AI Agents development.
+- 📫 If you are looking for someone with experience in Java and AI Agents development, please send me an email: fulaing@outlook.com.
 
 <!---
 gefulai/gefulai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
